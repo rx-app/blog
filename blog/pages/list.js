@@ -25,7 +25,7 @@ export default () =>{
     <>
       <Head>
         <title>List</title>
-      </Head>
+      </Head> 
       <Header />
       <Row className="comm-main" type="flex" justify="center">
         <Col className="comm-left" xs={24} sm={24} md={16} lg={18} xl={14}  >
